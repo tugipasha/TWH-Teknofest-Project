@@ -1,0 +1,8 @@
+{
+  "name": "Nexus AI Platform",
+  "description": "Intelligent system design showcase featuring real-time 3D environments, custom layouts, and automated workflows.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
